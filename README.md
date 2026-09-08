@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # 👋 Hi, I'm Thanh Le
@@ -39,4 +38,3 @@ Some things are difficult to showcase without actually building them — so thes
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhthanh11&theme=github-compact&hide_border=true" />
 
 </div>
-```
