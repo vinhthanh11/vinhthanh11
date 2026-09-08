@@ -33,8 +33,6 @@ Some things are difficult to showcase without actually building them — so thes
 
 ## 📊 GitHub Contributions
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhthanh11&theme=github-compact&hide_border=true" />
+My projects are actively developed and maintained here on GitHub. (both public and private)
 
 </div>
