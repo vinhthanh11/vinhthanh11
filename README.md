@@ -2,11 +2,10 @@
 
 # 👋 Hi, I'm Thanh Le
 
-### Electronic Trading • Derivatives • Market Analytics • Financial Engineering
+### Electronic Trading • Derivatives • Execution Trading
 
 <p>
-Finance + Computer Science graduate building tools around market data,
-execution analytics, risk, derivatives, and financial infrastructure.
+I use this GitHub to build tools that simulates what I do at work. It is hard to showcase something without actually building it.
 </p>
 
 <a href="https://github.com/vinhthanh11">
@@ -18,5 +17,3 @@ execution analytics, risk, derivatives, and financial infrastructure.
 </div>
 
 ---
-
-## 📊 Market & Trading Focus
